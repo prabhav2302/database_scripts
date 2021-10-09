@@ -94,7 +94,7 @@ The `id` field for `students` table is the primary key
 After checking the new tables we find that none of these tables has more than one multi-valued fact attribute and hence the tables are also 4NF compliant.
 
 ## ER diagram 
-![4NF ER diagram](./images/4NF.png)
+![https://github.com/dbdesign-students-spring2021/database-normalization-entity-relationship-diagramming-prabhav2302/blob/master/images/4NF.png](./images/4NF.png)
 
 
 
