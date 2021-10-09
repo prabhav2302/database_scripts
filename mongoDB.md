@@ -185,9 +185,3 @@ Sample Documents:
   
 Insights:  
 It appears Tribal Land, Hillsboro Beach, and Southwest Ranches are the 3 neighbourhoods in Broward country with the top average review score rating. Potential visitors may want to take this into account when choosing which neighbourhood to live in for their stay. My dataset did not have the "neighbourhood_group_cleansed" field so instead I used the "neighbourhood_cleansed" field instead for the grouping.
-
-## Extra-credit
-This assignment deserves extra credit. The file named extra_credit.py in the main directory reproduces query 5 using the pymongo module. This was the output on the terminal:
-
-![sc1](./images/sc1.png)
-![sc2](./images/sc2.png)
